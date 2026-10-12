@@ -55,7 +55,7 @@ Die **80 Stunden** sind der offizielle Zeitrichtwert im Schuljahr. Wir können i
 ## E. Die große Endprüfung
 
 - **154 unterschiedliche, selbst erstellte LF2-Aufgaben** (von Grundlagen bis komplexer Kundenauftrag).
-- A: 64 Auswahl- und Mehrfachwahlfragen
+- A: 64 Single-Choice-Fragen (jeweils genau eine richtige Antwort)
 - B: 40 Fach-/Kurzantwortaufgaben
 - C: 20 Berechnungen mit Formeln und Einheiten
 - D: 20 Schaltplan-, Planungs- und Fehleraufgaben
