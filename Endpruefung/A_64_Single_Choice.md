@@ -435,11 +435,11 @@ C) Ja, weil jeder LS passt
 D) Nicht prüfbar wegen 230 V
 
 ### A55
-Welcher Nachweis reicht allein **nicht** für eine sichere Leitungswahl?
+Welcher der genannten Punkte ist **kein technisches Bemessungskriterium** für eine Leitung?
 
 A) Passende Strombelastbarkeit plus weitere Kriterien
 B) Nachgewiesene Abschaltbedingungen
-C) Ein günstiger Spannungsfall
+C) Farbe des Angebotsformulars
 D) Geprüfte Kurzschlussbedingungen
 
 ### A56
