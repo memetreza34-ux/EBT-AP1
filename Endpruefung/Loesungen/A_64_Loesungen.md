@@ -58,7 +58,7 @@
 | A52 | **D** | I_B ≤ I_n ≤ I_z |
 | A53 | **A** | Leitungslänge und Stromstärke |
 | A54 | **B** | Nein, weil 16 A größer als 14 A ist |
-| A55 | **C** | Ein günstiger Spannungsfall |
+| A55 | **C** | Farbe des Angebotsformulars (technisch nicht relevant) |
 | A56 | **D** | Freischalten |
 | A57 | **A** | Geeigneter zweipoliger Spannungsprüfer durch Befugte |
 | A58 | **B** | Besichtigen, Erproben, Messen |
