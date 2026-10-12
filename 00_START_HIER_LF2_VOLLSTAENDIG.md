@@ -48,21 +48,21 @@ Die **80 Stunden** sind der offizielle Zeitrichtwert im Schuljahr. Wir können i
 | Dienstag (13.10.) | Energiebedarf, Typenschilder, Installationsarten, Leitungen, Auslegung | Kurs 2, Tabellenbuchaufgaben, vorhandene Tag-2-/3-Basistests |
 | Mittwoch (14.10.) | Netzsysteme, Schutz, Sicherheit, Vertiefung der Querschnitts- und Spannungsfallrechnung | Kurs 3 und gemischte Fälle |
 | Donnerstag (15.10.) | Errichten, Prüfen, Fehler, Organisation, Umwelt, Kundengespräch, Kosten und Rechnung | Kurs 4 + Kurs 5 |
-| Freitag (16.10.) | Alle offenen Themen gezielt, dann große Endprüfung **nur LF2** | [LF2-Endprüfung – 150 Aufgaben](Endpruefung/LF2_Endpruefung_150_Aufgaben.md), eigene Korrektur |
+| Freitag (16.10.) | Alle offenen Themen gezielt, dann große Endprüfung **nur LF2** | [LF2-Endprüfung – 154 Aufgaben](Endpruefung/LF2_Endpruefung_154.md), eigene Korrektur |
 
 **Zeit:** je nach Vorwissen **6–9 Stunden inklusive Pausen**. Den Stoff nicht nur einmal überfliegen: **erklären → selbst skizzieren/rechnen → Fehler kontrollieren → wiederholen**. Wenn eine Kompetenz noch fehlt, muss dafür Zeit reserviert werden; „nach Kalender fertig“ ist kein Lernnachweis.
 
 ## E. Die große Endprüfung
 
-- **150 unterschiedliche, selbst erstellte LF2-Aufgaben** (von Grundlagen bis komplexer Kundenauftrag).
-- A: 60 Auswahl- und Mehrfachwahlfragen
+- **154 unterschiedliche, selbst erstellte LF2-Aufgaben** (von Grundlagen bis komplexer Kundenauftrag).
+- A: 64 Auswahl- und Mehrfachwahlfragen
 - B: 40 Fach-/Kurzantwortaufgaben
 - C: 20 Berechnungen mit Formeln und Einheiten
 - D: 20 Schaltplan-, Planungs- und Fehleraufgaben
 - E: 10 umfangreiche Fallaufgaben mit Unterpunkten
-- Ergebnisse mit [eigenständigen Musterlösungen](Endpruefung/LF2_Musterloesungen_150.md) prüfen (**erst nach Bearbeitung öffnen**).
+- Ergebnisse mit [eigenständigen Musterlösungen](Endpruefung/LF2_Musterloesungen_154.md) prüfen (**erst nach Bearbeitung öffnen**).
 
-**Hinweis:** 150 Aufgaben sind deutlich mehr als ein echter 90-Minuten-AP1-Schriftteil. Bearbeite sie über mehrere Abschnitte, um sowohl Tiefe als auch Breite zu testen. Nicht als amtliche IHK/PAL-Aufgaben oder empirisch „am häufigsten“ bezeichnen.
+**Hinweis:** 154 Aufgaben sind deutlich mehr als ein echter 90-Minuten-AP1-Schriftteil. Bearbeite sie über mehrere Abschnitte, um sowohl Tiefe als auch Breite zu testen. Nicht als amtliche IHK/PAL-Aufgaben oder empirisch „am häufigsten“ bezeichnen.
 
 ## F. Ohne Fremdstoff-Verwechslung
 
