@@ -1,0 +1,36 @@
+name: Build Tag 2 AP1 PDFs
+
+on:
+  push:
+    paths:
+      - 'LF2/Tag_2_Abschlusspruefung_60_Punkte_mit_Auswertung.md'
+      - 'scripts/build_tag2_pdf_from_md.py'
+      - '.github/workflows/build-tag2-pdf.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install PDF dependencies
+        run: python -m pip install mistune weasyprint pypdf
+      - name: Build exam PDF and updated Tag 2 booklet
+        run: python scripts/build_tag2_pdf_from_md.py
+      - name: Save PDFs to repository
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add LF2/Tag_2_Abschlusspruefung_60_Punkte_mit_Auswertung.pdf LF2/Tag_2_Ultra_Lernskript_Leitungen_Berechnungen.pdf
+          if ! git diff --cached --quiet; then
+            git commit -m 'docs(lf2): update Tag 2 PDF with 60-point exam and solutions'
+            git push
+          fi
