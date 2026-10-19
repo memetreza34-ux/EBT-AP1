@@ -1,10 +1,26 @@
-# EBT – AP1-Lernrepository (Schwerpunkt LF2)
+# EBT – AP1-Lernrepository (LF2 und LF4)
 
-**Aktuell: gesamtes Lernfeld 2 systematisch wiederholen – danach große LF2-Endprüfung.**  
+**Aktueller Lernfokus: Lernfeld 4 – ohne festen Tagesplan.**  
 **Beruf:** Elektroniker/-in für Betriebstechnik (IHK/Industrie)  
 **Quellenstand:** 12.10.2026.
 
-## HIER ANFANGEN
+## AKTUELL: LF4 – Informationstechnische Systeme bereitstellen
+
+**[➡ Zum neuen LF4-Lernbereich mit allen Modulen](LF4/README.md)**
+
+- [Lektion 1: PC-Hardware verstehen](LF4/01_PC_Hardware.md)
+- [Lektion 2: Stecker und Schnittstellen erkennen](LF4/02_Stecker_Schnittstellen.md)
+- [Bildkarten-Vorbereitung](LF4/Bildkarten_Vorbereitung.md)
+- [Flexibler Lernfortschritt und Kompetenzcheck](LF4/Kompetenzcheck.md)
+- [LF4-Abschlussübung (50 P)](LF4/09_AP1_Probetraining.md)
+
+**Methode:** ein Thema nach dem anderen, mit echter Erklärung, Bild-Erkennung, kleinen Prüfungsfragen und Wiederholung der Fehler. Die LF2-Lernskripte und Endprüfung bleiben als bisheriges Material erhalten.
+
+---
+
+## BISHERIGER BEREICH: LF2
+
+### HIER ANFANGEN – LF2
 
 ### 1. [Vollständiger LF2-Lernpfad nach KMK](00_START_HIER_LF2_VOLLSTAENDIG.md)
 Der Einstieg ordnet **alle neun ausdrücklich genannten KMK-Inhaltsbereiche** plus alle zusätzlichen LF2-Kompetenzen den Lernskripten und Übungsgruppen zu. Enthält den neuen 5-Tage-Ablauf.

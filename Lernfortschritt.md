@@ -1,6 +1,6 @@
-# Persönlicher Lernfortschritt – EBT AP1 / Lernfeld 2
+# Persönlicher Lernfortschritt – EBT AP1 / Lernfeld 2 und 4
 
-**Stand:** 12.10.2026. Zu Beginn ist noch **nichts als bestanden markiert**.
+> **Neuer aktiver Lernbereich:** [LF4 – ohne feste Lerntage](LF4/README.md) · [Kompetenzcheck und aktueller Lernfortschritt](LF4/Kompetenzcheck.md). Die folgende Tabelle dokumentiert den früheren LF2-Tagesplan und ist nicht der LF4-Fortschritt.\n\n**Stand LF2-Tabelle:** 12.10.2026. Zu Beginn ist noch **nichts als bestanden markiert**.
 
 | Tag | Thema | Erarbeitet | Testpunkte | Woran muss ich noch arbeiten? |
 |---|---|---|---|---|
