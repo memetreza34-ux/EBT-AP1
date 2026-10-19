@@ -2,7 +2,7 @@
 
 **Aktueller Lernfokus: Lernfeld 4 – ohne festen Tagesplan.**  
 **Beruf:** Elektroniker/-in für Betriebstechnik (IHK/Industrie)  
-**Quellenstand:** 12.10.2026.
+**LF4-Quellenstand:** 19.10.2026 · **LF2:** ältere Unterlagen bleiben unverändert.
 
 ## AKTUELL: LF4 – Informationstechnische Systeme bereitstellen
 
