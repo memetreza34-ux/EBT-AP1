@@ -1,5 +1,14 @@
 # LF4 – Informationstechnische Systeme bereitstellen
 
+## LF4-Komplettlernbuch als PDF
+
+**[Komplettes illustriertes LF4-Lernbuch herunterladen (PDF)](LF4_Komplettlernbuch_AP1.pdf)**
+
+Enthält alle acht LF4-Lektionen, einen selbst gezeichneten Stecker-/Buchsenatlas mit 16 Anschlussarten, Rechenwege für Datenraten und IPv4-Subnetze sowie AP1-orientierte Prüfungsaufgaben mit Musterlösungen. **Kein offizielles IHK/PAL-Prüfungsdokument.**
+
+Die PDF wird bei Änderungen an den LF4-Markdown-Unterlagen automatisiert mit [build_complete_pdf.py](build_complete_pdf.py) und dem [GitHub-Actions-Workflow](../.github/workflows/build-lf4-pdf.yml) aktualisiert.
+
+
 **Beruf:** Elektroniker/-in für Betriebstechnik (EBT) · **Ziel:** AP1-relevante Kompetenzen in Lernfeld 4 verstehen, anwenden und üben.  
 **Prinzip:** **Kein Zeitplan nach Tagen.** Wir lernen eine Lektion nach der anderen, egal wie lange sie dauert. Schwierige Themen dürfen mehrere Sitzungen beanspruchen.  
 **Status:** Lernmaterial vorbereitet; **noch keine Lektion als bestanden markiert**.
