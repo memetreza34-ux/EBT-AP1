@@ -1,0 +1,41 @@
+name: LF4 Komplettlernbuch PDF
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'LF4/*.md'
+      - 'LF4/build_complete_pdf.py'
+      - '.github/workflows/build-lf4-pdf.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install weasyprint markdown
+      - name: Render illustrated LF4 PDF
+        run: python LF4/build_complete_pdf.py
+      - name: Commit updated PDF to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add LF4/LF4_Komplettlernbuch_AP1.pdf
+          if ! git diff --cached --quiet; then
+            git commit -m "docs(lf4): regenerate illustrated complete PDF [skip ci]"
+            git push
+          fi
