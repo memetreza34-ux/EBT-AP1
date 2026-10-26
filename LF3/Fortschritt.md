@@ -2,16 +2,16 @@
 
 **Status 26.10.2026:**
 - Offizielle Inhalte analysiert und Lernplan im Ordner LF3 angelegt.
-- **Lektion 1 erklärt, Prüfungsfragen gestellt; noch nicht bestanden.**
-- Alle übrigen Lektionen offen.
+- **Lektion 1: 9,5/10 Punkte im Chat erreicht; abgeschlossen.**
+- Lektion 2 erarbeitet; Prüfung offen. Restliche Lektionen offen.
 - Abschlussprüfung offen.
 
 ## Bewertung nach jeder Lektion
 
 | Lektion | Ergebnis | Bedarf |
 |---|---|---|
-| 01 Steuerung/Regelung/EVA | Offen | Nach Prüfung aktualisieren |
-| 02 Sensoren/Aktoren | Offen | |
+| 01 Steuerung/Regelung/EVA | 9,5/10 | Abgeschlossen |
+| 02 Sensoren/Aktoren | Unterricht/Prüfung vorbereitet | Nach Prüfung aktualisieren |
 | 03 Schütze/Relais | Offen | |
 | 04 Schaltpläne | Offen | |
 | 05 Logik | Offen | |
