@@ -33,7 +33,7 @@ Die **didaktisch ergänzten** Inhalte unten konkretisieren diese Vorgaben in typ
 | Nr. | Lernabschnitt | Priorität | Status |
 |---|---|---|---|
 | 01 | [Steuerung, Regelung, EVA und Wirkungskette](01_Grundlagen_Steuerung_Regelung_EVA.md) | **sehr hoch** | Gestartet |
-| 02 | Sensoren, Aktoren, mechanische und induktive Schaltgeräte | sehr hoch | Offen |
+| 02 | [Sensoren, Aktoren und Signalarten](02_Sensoren_Aktoren.md) | sehr hoch | Unterricht und Prüfung vorbereitet |
 | 03 | Relais, Schütz, Haupt- und Hilfskontakte, Spulen | **sehr hoch** | Offen |
 | 04 | Schaltzeichen, Betriebsmittelkennzeichnung, Schaltpläne | **sehr hoch** | Offen |
 | 05 | UND, ODER, NICHT und weitere logische Verknüpfungen / Tabellen | **sehr hoch** | Offen |
