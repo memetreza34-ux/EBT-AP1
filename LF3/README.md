@@ -33,7 +33,7 @@ Die **didaktisch ergänzten** Inhalte unten konkretisieren diese Vorgaben in typ
 | Nr. | Lernabschnitt | Priorität | Status |
 |---|---|---|---|
 | 01 | [Steuerung, Regelung, EVA und Wirkungskette](01_Grundlagen_Steuerung_Regelung_EVA.md) | **sehr hoch** | Gestartet |
-| 02 | [Sensoren, Aktoren und Signalarten](02_Sensoren_Aktoren.md); [2A: Mechanischer Endschalter ausführlich](02a_Mechanischer_Endschalter.md); [2B: Induktiver Näherungssensor](02b_Induktiver_Naeherungssensor.md); [2C: Kapazitiver Näherungssensor](02c_Kapazitiver_Naeherungssensor.md) | sehr hoch | Teil 2A 6/8 Punkte; Teil 2B 11,5/12 Punkte; Teil 2C gestartet |
+| 02 | [Sensoren, Aktoren und Signalarten](02_Sensoren_Aktoren.md); [2A: Mechanischer Endschalter ausführlich](02a_Mechanischer_Endschalter.md); [2B: Induktiver Näherungssensor](02b_Induktiver_Naeherungssensor.md); [2C: Kapazitiver Näherungssensor](02c_Kapazitiver_Naeherungssensor.md); [2D: Optische Sensoren und Lichtschranken](02d_Optische_Sensoren_Lichtschranken_Lichttaster.md) | sehr hoch | Teil 2A 6/8 Punkte; Teil 2B 11,5/12 Punkte; Teil 2C 11,5/12 Punkte; Teil 2D gestartet |
 | 03 | Relais, Schütz, Haupt- und Hilfskontakte, Spulen | **sehr hoch** | Offen |
 | 04 | Schaltzeichen, Betriebsmittelkennzeichnung, Schaltpläne | **sehr hoch** | Offen |
 | 05 | UND, ODER, NICHT und weitere logische Verknüpfungen / Tabellen | **sehr hoch** | Offen |
