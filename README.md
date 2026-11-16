@@ -54,6 +54,12 @@ Zusätzlich stehen die vorher angelegten **kürzeren Tageslernblätter** im Ordn
 - [Ursprünglicher 5-Tage-Kurzlernplan](02_Lernplan_5_Tage.md)
 - [Frühere Tag-1-bis-5-Lernblätter und einfache Prüfungsübung](LF2)
 
+## AP1 – Inbetriebnahme und Prüfen elektrischer Anlagen
+
+**[Zur vollständigen 32-Seiten-Analyse des DB-Handlungsleitfadens (Stand 25.03.2026)](AP1/Inbetriebnahme/README.md)**
+
+Enthält die fachliche Auswertung aller Kapitel, eine eigene sicherheitsorientierte Fehler-/Normenprüfung sowie eine AP1-Prüfcheckliste mit Lernaufgaben. **Die urheberrechtlich geschützte Original-PDF wurde nicht veröffentlicht.**
+
 ## WICHTIGE HINWEISE
 
 **KMK-LF2 umfasst 80 Unterrichtsstunden.** Wir besprechen und üben alle dort genannten Bereiche möglichst gründlich in fünf freien Tagen; vollständige handwerkliche Handlungssicherheit lässt sich daraus nicht garantieren. Regionale Schulpläne/Lehrbücher können zusätzliche Schwerpunkte setzen.
